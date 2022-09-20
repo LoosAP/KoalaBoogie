@@ -1,0 +1,52 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "testmap.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "exportAsImage.useCurrentScale": true,
+    "fileStates": {
+        "collision.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "sceneSpriteSheet.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "testmap.tmx": {
+            "scale": 3,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 440.99999999999994,
+                "y": 59
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/Hp/Documents/KoalaBoogie",
+    "map.height": 40,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 12,
+    "map.tileWidth": 12,
+    "map.width": 70,
+    "openFiles": [
+        "testmap.tmx",
+        "sceneSpriteSheet.tsx",
+        "collision.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "collision.tsx",
+        "sceneSpriteSheet.tsx",
+        "testmap.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 12,
+        "width": 12
+    },
+    "tileset.useTransparentColor": true
+}
